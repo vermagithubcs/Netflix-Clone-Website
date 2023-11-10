@@ -1,1 +1,1 @@
-# Netflix-Clone-Websit
+# Netflix-Clone-Website
