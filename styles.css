@@ -316,4 +316,13 @@ input[type="radio"]{
     label::after{
         font-size: 22px;
     }
+    .row .nav-col{
+      margin-left: 25px;
+    }
+    .row .nav-col01{
+      margin-right: 30px;
+    }
+    .footer h2{
+      margin-left: 50px;
+    }
 }
